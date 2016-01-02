@@ -44,5 +44,6 @@ other needed files
 клик по тапу на трекпад
 открывать предыдущие странички в safari
 icloud
+настроить git - https://github.com/progit/progit/blob/master/ru/07-customizing-git/01-chapter7.markdown
 
 
