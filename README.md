@@ -35,7 +35,14 @@ mogenerator (from here: https://github.com/fs/mogenerator)
 curl
 
 Другое:
+закладки в браузере
 keychain
 .ssh file
 other needed files
+
+Настройки:
+клик по тапу на трекпад
+открывать предыдущие странички в safari
+icloud
+
 
